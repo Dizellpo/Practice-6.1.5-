@@ -1,1 +1,1 @@
-https://github.com/Dizellpo/Practice_6.1.5
+https://dizellpo.github.io/Practice_6.1.5/
